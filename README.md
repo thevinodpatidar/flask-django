@@ -1,4 +1,5 @@
 # flask-django
+
 Learning flask and django
 
 ## Dependencies Installed
@@ -9,14 +10,15 @@ Learning flask and django
 4. Flask-WTF
 5. passlib
 
-##  Create an environment¶
+## Create an environment¶
 
 ```
+
 mkdir myproject
 cd myproject
 python3 -m venv venv
 
-'''
+```
 
 If you needed to install virtualenv because you are on an older version of Python, use the following command instead:
 
